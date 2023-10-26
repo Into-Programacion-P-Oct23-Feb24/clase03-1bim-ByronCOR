@@ -16,21 +16,23 @@ public class Ejemplo03 {
      */
     public static void main(String[] args) {
         // para crear un comentario de multiples lineas se realiza lo siguiente
-        
-        // Tipos de dato en Java
 
+        // Tipos de dato en Java
         // Tipo de datos Entero
-        
         /*
-       para crear un comentario de multiples lineas se realiza lo siguiente se realiza el mismo procedimiento de agregar 
-        un slash con un asterisco y cerrarlo con un asterisco y slash 
-        */
+        Para crear un comentario de multiples lineas
+        se realiza lo siguiente 
+        se agrega un slash con un asterisco posterior 
+        se escribe el comentario que se desea escribir 
+        para cerrarlo con un asterisco y slash 
+         */
         int variable1;
         int variable2 = 10;
         int valorInicial = 18;
         int valor_inicial = 18;
         // int valor inicial = 18;
         int valor_inicial_2 = 18;
+        int 2valor = 10;
 
         // Tipo de datos Double - Decimal
         double variable3;
@@ -47,13 +49,13 @@ public class Ejemplo03 {
         // tipo de dato boolean - boleano
         boolean variable9 = false;
         boolean variable10 = true;
-        
+
         boolean variable11 = false;
         // boolean variable11 = false; // incorrecto
         variable11 = false;
         variable11 = true;
         // variable11 = variable6;
-        
+
     }
 
 }
